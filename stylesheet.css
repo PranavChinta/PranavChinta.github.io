@@ -21,3 +21,7 @@ body {
     color: blue;
     text-decoration: none;
 }
+
+.external-link:hover {
+    color: red;
+}
