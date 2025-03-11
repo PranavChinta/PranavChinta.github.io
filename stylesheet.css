@@ -17,11 +17,11 @@ body {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.external-link {
+a {
     color: blue;
     text-decoration: none;
 }
 
-.external-link:hover {
+a:hover {
     color: red;
 }
